@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "projeto_integraçãoContinua_jest",
+  "main": "intcont.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "jest"
+  ],
+  "author": "bruno river",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
